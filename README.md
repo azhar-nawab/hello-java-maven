@@ -31,13 +31,8 @@
 
 ---
 
-## ✅ Example Output
-
-**Screenshot of successful Jenkins build console output:**
-
-> 📸 _Include your console output screenshot here_
-
 ---
 ## 📁 Project Structure
 
 <pre lang="markdown"> ## 🗂️ Project Structure ``` hello-java-maven/ ├── pom.xml └── src/ ├── main/ │ └── java/ │ └── com/ │ └── example/ │ └── HelloWorld.java └── test/ └── java/ └── com/ └── example/ └── HelloTest.java ``` </pre>
+---
